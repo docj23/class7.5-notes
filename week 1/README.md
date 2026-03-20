@@ -169,3 +169,6 @@ For example mine:
 5) line 21 I use python's built in web server module to run the web page. 
 
 This script is super simple and unrealistic for production but hopefully it helps you understand what is happening. 
+
+The webpage of my script will look like this:
+![](./assets/script-output.PNG)
