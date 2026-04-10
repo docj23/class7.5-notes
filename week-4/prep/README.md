@@ -313,7 +313,7 @@ At this point VS Code should look like [this](../assets/vs-code-done.PNG). You c
 
 Before we deploy anything to GCP, let's look at what the language looks like and practice the workflow locally. This section does not require authentication since we are not touching GCP.
 
-Terraform code is organized into **blocks**. A block defines what a section of code is for and usually gives it a unique **label**. A block contains **arguments** -- key-value pairs that configure the block. Arguments are wrapped in curly braces. The general structure:
+Terraform code is organized into **blocks**. A block defines what a section of code is for and usually gives it a unique **label**. A block contains **arguments** which are key-value pairs that configure the block. Arguments are wrapped in curly braces. The general structure:
 
 ```hcl
 <block type> <label> {
