@@ -72,10 +72,10 @@ Now you will see the bucket details. You are all done with creating the bucket.
 
 ![](./assets/gcs-4.PNG)
 
-[Cloud Storage product page](https://cloud.google.com/storage?hl=en)
-[Cloud Storage intro](https://docs.cloud.google.com/storage/docs/introduction)
-[Cloud Storage bucket basics](https://docs.cloud.google.com/storage/docs/buckets)
-[Object storage vs other storage](https://cloud.google.com/discover/object-vs-block-vs-file-storage?hl=en)
+- [Cloud Storage product page](https://cloud.google.com/storage?hl=en)
+- [Cloud Storage intro](https://docs.cloud.google.com/storage/docs/introduction)
+- [Cloud Storage bucket basics](https://docs.cloud.google.com/storage/docs/buckets)
+- [Object storage vs other storage](https://cloud.google.com/discover/object-vs-block-vs-file-storage?hl=en)
 
 
 
